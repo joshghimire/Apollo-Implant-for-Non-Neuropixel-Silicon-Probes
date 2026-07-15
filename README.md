@@ -4,7 +4,7 @@
 
 
 
-A modification of the Apollo chronic implant system which allows Neuronexus and Cambridge Neurotech probes to be chronically implanted with dental cement, yet recovered after the experiment for cleaning and reuse.
+A modification of the Apollo chronic implant system which allows Neuronexus probes with 64ch Omnetics Connectors and Cambridge Neurotech probes with the integrated 128 channel ASSY-350 headstage to be chronically implanted with dental cement, yet recovered after the experiment for cleaning and reuse.
 
 <img width="512" height="369" alt="image" src="https://github.com/user-attachments/assets/a4b98195-03b9-4934-b329-263b31ada615" />
 
