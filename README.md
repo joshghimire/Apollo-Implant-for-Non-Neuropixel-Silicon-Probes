@@ -1,4 +1,6 @@
 # Apollo-Implant-for-Non-Neuropixel-Silicon-Probes
+<img width="380" height="420" alt="image" src="https://github.com/user-attachments/assets/04f69ae4-1959-4b96-ada6-d2ff5a233a98" /> <img width="307" height="325" alt="image" src="https://github.com/user-attachments/assets/26bad222-4791-4760-ac97-7840879cb330" /><img width="370" height="349" alt="image" src="https://github.com/user-attachments/assets/dfb467c0-1175-4dd0-af56-e630dac79654" />
+
 
 
 
@@ -34,9 +36,15 @@ Therefore, my modifications have 3 parts:<br>
 
 The general steps for assembly are as follows:
 
-1) Superglue the probe (the probe interface; the part where the shanks are coming from) to the payload module<br>
-2) Carefully insert the payload module with the probe into the docking module w/ front panel (I do this by hand, its actually not bad if you do it slowly on a flat table).<br>
-3) Gently slide the ribbon cable + board (by board I mean the green board containing the Omnetics connector for Neuronexus probes, or the ASSY 350 128ch integrated headstage for Cambridge Neuro probes) into the front panel.<br>
+1) Heat solder m1 brass inserts into both holes of the payload module<br>
+2) Superglue the probe (the probe interface; the part where the shanks are coming from) to the payload module<br>
+3) Carefully insert the payload module with the probe into the docking module w/ front panel (I do this by hand, its actually not bad if you do it slowly on a flat table).<br>
+4) Gently slide the ribbon cable + board into the front panel<br>
+By board I mean:<br>
+the green board containing the Omnetics connector for Neuronexus probes<br>
+or the ASSY-350 128ch integrated headstage for Cambridge Neuro probes
+<img width="150" height="90" alt="image" src="https://github.com/user-attachments/assets/55bb3a23-e619-4b2e-99bc-e26f5d689ecf" />
+ 
 4) Combine the back panel with the front panel  
 
 My modifications were done on top another modification of the original Apollo implant ([the NP2_SingleProbeDockingWithHeadstage_ANGLED](https://github.com/Coen-Lab/chronic-neuropixels/tree/main/XtraModifications/Mouse_FreelyMoving) redesign by Shahaf Weiss (Max-Planck institute for brain-research, Frankfurt am Main, Germany Email: shahaf.weiss@brain.mpg.de)
