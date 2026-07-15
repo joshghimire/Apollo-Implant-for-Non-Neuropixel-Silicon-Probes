@@ -1,6 +1,10 @@
 # Apollo-Implant-for-Non-Neuropixel-Silicon-Probes
-A modification of the Apollo chronic implant system which allows Neuronexus and Cambridge Neurotech probes to be chronically implanted with dental cement, yet recovered after the experiment for cleaning and reuse. 
-<img width="1024" height="739" alt="image" src="https://github.com/user-attachments/assets/a4b98195-03b9-4934-b329-263b31ada615" />
+
+
+
+A modification of the Apollo chronic implant system which allows Neuronexus and Cambridge Neurotech probes to be chronically implanted with dental cement, yet recovered after the experiment for cleaning and reuse.
+
+<img width="512" height="369" alt="image" src="https://github.com/user-attachments/assets/a4b98195-03b9-4934-b329-263b31ada615" />
 
 
 The original e-life paper can be found [here](<https://elifesciences.org/articles/98522>), and the github with the files is [here](https://github.com/Coen-Lab/chronic-neuropixels)
@@ -16,14 +20,21 @@ This gives the stability of a probe that is cemented onto the skull, while allow
 
 Unfortunately, the Apollo implant was designed only for neuropixel probes, which have a detatchable ribbon cable. This is NOT the case for Neuronexus and Cambridge Neurotech silicon probes, and posed an immense challenge.
 
-Therefore, my modifications have 3 parts:
+Therefore, my modifications have 3 parts:<br>
 1)A payload module<br>
+<img width="207" height="260" alt="image" src="https://github.com/user-attachments/assets/fdb3471e-dcff-4b50-a417-33e0596f78f1" /> <img width="328" height="260" alt="image" src="https://github.com/user-attachments/assets/89a383b0-2156-4043-8cd7-02a590bac4b5" />
+
+
 2)A docking module with front panel<br>
-3)A back panel
+<img width="280" height="257" alt="image" src="https://github.com/user-attachments/assets/cbc0d7d2-62a0-400c-acbf-bc8cbbe14f64" /> <img width="270" height="257" alt="image" src="https://github.com/user-attachments/assets/39977662-3f85-440e-b3f3-416c18024fca" />
 
-The steps for assembly are as follows:
 
-1) Superglue the probe interface (the part where the shanks are coming from) to the docking module<br>
+3)A back panel<br>
+<img width="280" height="220" alt="image" src="https://github.com/user-attachments/assets/0fd6767f-454b-4c7a-82db-a1fc2c35ec44" /> <img width="250" height="220" alt="Screenshot 2026-07-15 at 4 23 19 PM" src="https://github.com/user-attachments/assets/616ed81e-e225-4ee4-8318-6ea9a269bf27" />
+
+The general steps for assembly are as follows:
+
+1) Superglue the probe (the probe interface; the part where the shanks are coming from) to the payload module<br>
 2) Carefully insert the payload module with the probe into the docking module w/ front panel (I do this by hand, its actually not bad if you do it slowly on a flat table).<br>
 3) Gently slide the ribbon cable + board (by board I mean the green board containing the Omnetics connector for Neuronexus probes, or the ASSY 350 128ch integrated headstage for Cambridge Neuro probes) into the front panel.<br>
 4) Combine the back panel with the front panel  
