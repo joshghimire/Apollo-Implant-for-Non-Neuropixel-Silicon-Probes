@@ -54,3 +54,9 @@ Note: there is a newer attempt at a screwless solution (screwing/unscrewing exer
 The original files were made in Autodesk Inventor.<br>
 As of 7/2026, the CA2 implant pieces are Inventor .ipt files (TODO import to Fusion),br.
 The mPFC implant pieces are Fusion.f3z (with .3mf and .stl files for direct printing) 
+
+Note: The Cambridge Neurotech probes with the integrated ASSY-350 headstages do not let you access each electrode site to recoat with PEDOT. So each probe has a limited amount of uses. Nuber of implants of these probes can be maximized if the probe is immediately dipped in ddH20 after explantation, followed by submerging in trypsin EDTA and scrubbing the electrode sites against a hard boiled egg with a micromanipulatior as described in this [paper](https://pubmed.ncbi.nlm.nih.gov/38865216/)
+
+<img width="745" height="629" alt="CN_3521-2_ProbeImpedances_SplitYAxis" src="https://github.com/user-attachments/assets/60bdf9cf-2aa9-4b3e-a70e-7dce5aee1974" />
+
+
